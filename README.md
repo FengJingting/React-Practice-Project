@@ -9,5 +9,5 @@ Here's a brief overview of the projects included in this collection:
 0. Pizza Ordering Demo: Components, Props, JSX
 1. Steps Card Demo
 2. Travelling TodoList Demo: State, Events, Forms
-3. Split Bill Demo: Lift States up, State Management
-4. Movie List Page: Prop Drilling, Components Reusability
+3. Split Bill Demo: Lift State up, State Management
+4. Movie List Page: Prop Drilling, Components Reusability, Star Rating Demo, PropTypes
