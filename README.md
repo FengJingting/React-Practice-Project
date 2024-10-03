@@ -10,4 +10,4 @@ Here's a brief overview of the projects included in this collection:
 1. Steps Card Demo
 2. Travelling TodoList Demo: State, Events, Forms
 3. Split Bill Demo: Lift State up, State Management
-4. UsePopcorn Website: Prop Drilling, Components Reusability, PropTypes, Star Rating, Search Query, Select Movies, UseEffect hooks, handle click events, destruting object, Cleanup Function
+4. UsePopcorn Website: Prop Drilling, Components Reusability, PropTypes, Star Rating, Search Query, Select Movies, UseEffect hooks, useRef hooks, handle click events, destruct object, Cleanup Function, Data Fetching, localStorage, custom hooks
