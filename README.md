@@ -11,3 +11,6 @@ Here's a brief overview of the projects included in this collection:
 2. Travelling TodoList Demo: State, Events, Forms
 3. Split Bill Demo: Lift State up, State Management
 4. UsePopcorn Website: Prop Drilling, Components Reusability, PropTypes, Star Rating, Search Query, Select Movies, UseEffect hooks, useRef hooks, handle click events, destruct object, Cleanup Function, Data Fetching, localStorage, custom hooks
+5.
+6. the React Quiz: ![alt text](1727976568611.png), A quiz website including progress bar, timer, questions and answers.use JSON file to create fake API, use useEffect to fetch data, use useReducer to manage and dispatch complex states
+7. 
