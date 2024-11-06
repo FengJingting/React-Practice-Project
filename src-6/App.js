@@ -100,7 +100,6 @@ export default function App(){
             <Header />
                 
             <Main>
-                x
                 {status === "loading" && <Loader />}
                 {status === "error" && <Error />}
                 {status === "ready" && <StartScreen numQuestions={numQuestions} dispatch={dispatch}/>}

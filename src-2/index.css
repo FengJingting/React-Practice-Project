@@ -25,6 +25,10 @@ body {
   grid-template-rows: auto auto 1fr auto;
 }
 
+/* .element {
+  overflow: hidden;
+  overflow-y: hidden;
+} */
 h1 {
   text-align: center;
   background-color: #f4a226;
@@ -80,6 +84,7 @@ input {
   flex-direction: column;
   gap: 3.2rem;
   align-items: center;
+  overflow: hidden;
 }
 
 .actions button,
@@ -101,6 +106,7 @@ input {
   gap: 1.2rem;
   justify-content: center;
   align-content: start;
+  overflow: hidden;
 }
 
 .list li {
